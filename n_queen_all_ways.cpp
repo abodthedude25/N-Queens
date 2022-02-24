@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace std;
 
+//complexity is O(N^N)
 bool canPlace(int board[][20], int n, int x, int y)
 {
 
